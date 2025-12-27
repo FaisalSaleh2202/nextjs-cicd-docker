@@ -14,7 +14,7 @@ export default function Home() {
         />
         <div className="flex flex-col items-center gap-6 text-center sm:items-start sm:text-left">
           <h2 className="max-w-xs text-3xl font-semibold leading-10 tracking-tight text-black dark:text-zinc-50">
-            DEPLOY_TEST_123
+            DEPLOY_CICD_GITHUB_ACTIONS_DOCKER
           </h2>
         </div>
       </main>
